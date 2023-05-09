@@ -6,7 +6,7 @@ Change detection is highly optimized and performant, but it can still cause slow
 
 In this guide, you’ll learn how to control and optimize the change detection mechanism by skipping parts of your application and running change detection only when necessary.
 
-Watch this video if you prefer to learn more about performance optimizations in a media format:
+Watch this video if you prefer to learn more about performance optimizations in a media format(Pravin):
 
 <div class="video-container">
 
